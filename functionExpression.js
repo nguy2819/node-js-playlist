@@ -21,3 +21,5 @@ var sayBye = function(){
 // sayBye();
 
 callFunction(sayBye);//this use for the Call Function above
+
+module.exports = sayBye;
